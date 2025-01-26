@@ -1,3 +1,3 @@
-let listadeNomes=['Daniel', 'gabriel','Eduador']
+let listadeNomes=['Daniel', 'PAULO','Eduador']
 
 console.log(listadeNomes[2])
